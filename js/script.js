@@ -1,0 +1,1 @@
+qualquer conteúdo de javascript;
